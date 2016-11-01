@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Threads</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seconds_counter">Seconds Counter</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_counting_asynch">Counting Asynch Activity</string>
+    <string name="counting_progress">Counting Progress</string>
+</resources>
